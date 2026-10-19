@@ -170,6 +170,4 @@ AI / Machine Learning / Generative AI Project
 
 Update this section with your preferred name, LinkedIn profile, and portfolio links before publishing.
 
-## 📄 License
 
-Add a license (for example, MIT) only if you intend to publish the project under those terms.
